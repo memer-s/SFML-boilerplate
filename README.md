@@ -1,6 +1,9 @@
 # SFML-boilerplate
 
-You need MinGW, GNU make.
+You need MinGW, GNU make and of course SFML.
 
-to compile: make \n
-to run: main.exe
+You need to copy the binaries and include folders into the src folder for it to work.
+
+*to compile: make
+
+*to run: main.exe
