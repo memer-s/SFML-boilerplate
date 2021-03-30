@@ -2,5 +2,5 @@
 
 You need MinGW, GNU make.
 
-to compile: make
+to compile: make \n
 to run: main.exe
